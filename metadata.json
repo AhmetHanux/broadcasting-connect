@@ -1,0 +1,6 @@
+{
+  "name": "Broadcasting Sport Network",
+  "description": "Gerçek zamanlı canlı maç bilgileri, anlık skorlar, detaylı maç istatistikleri ve analizler.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
